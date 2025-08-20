@@ -1,5 +1,9 @@
 下载地址：https://github.com/uesenone/xiala/releases/tag/%E6%94%B6%E8%97%8Fshoucang
 # 搜索引擎收藏工具 Pro v2.0
+<img width="1195" height="828" alt="image" src="https://github.com/user-attachments/assets/0b8a7f5d-da3b-4681-abe1-84145074f682" />
+<img width="1190" height="673" alt="image" src="https://github.com/user-attachments/assets/fe289592-451a-4cc2-9f4f-c48324a82193" />
+<img width="1184" height="690" alt="image" src="https://github.com/user-attachments/assets/dae5de4c-33ec-444b-a77c-cf1ab1a118a7" />
+<img width="1195" height="706" alt="image" src="https://github.com/user-attachments/assets/43db4c22-b1d0-4900-814c-94eb812c572c" />
 
 ## 🚀 功能特色
 
